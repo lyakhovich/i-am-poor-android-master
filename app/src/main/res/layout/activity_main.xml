@@ -15,9 +15,9 @@
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginBottom="14dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="54dp"
         android:src="@drawable/coal" />
 
     <TextView
@@ -26,7 +26,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="30dp"
+        android:layout_marginStart="45dp"
+        android:layout_marginTop="178dp"
         android:text="@string/iampoor"
         android:textColor="@android:color/black"
         android:textSize="40sp"
